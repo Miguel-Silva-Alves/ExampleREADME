@@ -19,7 +19,10 @@ python main.py
 ## Demo
 
 
-https://user-images.githubusercontent.com/69529557/183267542-f53eb969-f427-4813-b20c-8097c2152e35.mp4
+
+https://user-images.githubusercontent.com/69529557/185603850-2c9e20de-649f-4649-bf80-1500fccaa63b.mp4
+
+
 
 ## Citação
 
